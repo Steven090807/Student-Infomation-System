@@ -1,0 +1,43 @@
+
+.custom-menubar {
+  background-color: #1e1e2f !important;
+  border-bottom: 1px solid #444;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.3);
+  border: none;
+}
+
+.custom-menubar .p-menuitem-link {
+  color: #ffffff  !important;
+  background-color: #1e1e2f !important;
+  text-decoration: none !important;
+  border-radius: 0%;
+}
+
+.custom-menubar .p-menuitem-link:hover {
+  color: #ffffff !important;
+  background-color: #33334d !important;
+}
+
+.custom-menubar .p-menuitem-link.p-menuitem-active {
+  color: #ffffff !important; 
+  
+}
+
+.custom-menubar .p-menubar-root-list {
+  margin-left: auto !important;
+  justify-content: flex-end !important;
+  margin-right: 30px;
+  background-color: #1e1e2f !important;
+}
+
+.custom-menubar .p-submenu-list {
+  background-color: #1e1e2f !important;
+  color: #ffffff !important;
+  padding: 0.7rem;
+}
+
+.custom-menubar .p-submenu-list .p-menuitem-link:hover {
+  color: #ffffff !important;
+  border-radius: 0%;
+  
+}
