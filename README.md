@@ -63,3 +63,6 @@ The **Student Information System (SIS)** is a full-stack application built to si
 ## Contact
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/steven0908)
 [![Jobstreet](https://img.shields.io/badge/Jobstreet-003580?style=for-the-badge&logo=target&logoColor=white)](https://my.jobstreet.com/profiles/steven-gohyishen-97x9Q8tbmm)
+
+> **Degree Project** &nbsp; | &nbsp; Completed on Nov 12, 2025  
+> *Developed with passion for Software Engineering.*
